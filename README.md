@@ -1,4 +1,4 @@
-v# CHIP‑8
+# CHIP‑8
 
 [Pagina Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)
 
